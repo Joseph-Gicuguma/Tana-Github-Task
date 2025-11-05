@@ -1,6 +1,6 @@
 # Tana-Github-Task
 
-Tana Task on github 
+Tana Task on Git & github 
 
 ## Subheader 
 
