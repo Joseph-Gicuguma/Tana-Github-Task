@@ -30,5 +30,3 @@ This repository contains several Java practice projects. The two main runnable p
 		 cd "/Users/josephkamau/Desktop/My Personal projects/Tana Fellowship/Deliverables /Github task/Tana-Github-Task/java_OOP_Convepts/ATM_Project" && javac *.java
 	 2. Run the app:
 		 java ATM
-
-Other files in this repo are practice examples (OOP concepts, small exercises). If you want, I can add a dedicated `README.md` inside each project with these commands and examples of valid input.
